@@ -1,1 +1,28 @@
 /* Add CSS Styling */
+.numberoneclass {
+    background-color: rgba(255, 129, 129, 0.507);
+}
+
+#numbertwoid {
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.numberthreeclass {
+    background-color: rgba(255, 135, 135, 0.438);
+    font-weight: bold;
+    font-size: 26px
+}
+
+#numberfourid {
+    background-color: greenyellow;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.numberfiveclass {
+    background-color: rgba(255, 145, 145, 0.521);
+    font-weight: 700
+}
