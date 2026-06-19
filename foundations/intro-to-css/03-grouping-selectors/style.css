@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+.size {
+    height: 50px;
+    width: auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.b1bg {
+    color: white;
+    background-color: black;
+}
+
+.b2bg {
+    color: black;
+    background-color: yellow;
+}
